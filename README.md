@@ -1,5 +1,4 @@
-# website
-My Website
+# script
 
 Kör följande kommandon för att lägga upp ändringarna på GitHub:
 git add .
